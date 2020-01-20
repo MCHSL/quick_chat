@@ -1,0 +1,1 @@
+Quick and dirty webapp for setting up group chats.
